@@ -129,11 +129,11 @@ com.example.devfeed/
 - Only bookmarked repositories are available offline.
 
 ## 🗺️ Roadmap
-- [ ] Paging 3 (infinite scroll)
-- [ ] Offline cache for the home feed
+- [ ] Repository layer (single source of truth)
+- [ ] Offline cache for the home feed + Paging 3 (infinite scroll)
+- [ ] Unit tests (ViewModel, mapper, repository)
 - [ ] Repo detail screen
-- [ ] Unit tests and CI
-
+- [ ] GitHub Actions CI
 ---
 
 ## 🚀 Getting Started
