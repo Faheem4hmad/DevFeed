@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.DevFeed" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Purane Android versions ke liye -->
+        <item name="android:windowBackground">#8DC99B</item>
+
+        <!-- Android 12+ ke liye (aapke phone ka splash screen background) -->
+        <item name="android:windowSplashScreenBackground" tools:targetApi="s">#8DC99B</item>
+    </style>
+</resources>
