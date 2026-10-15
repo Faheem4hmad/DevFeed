@@ -25,10 +25,10 @@
       <td align="center"><b>Offline Bookmarks</b></td>
     </tr>
     <tr>
-      <td><img src="docs/screenshots/splash.png" width="200" alt="Splash Screen" /></td>
-      <td><img src="docs/screenshots/home.png" width="200" alt="Home Feed" /></td>
-      <td><img src="docs/screenshots/search.png" width="200" alt="Search Screen" /></td>
-      <td><img src="docs/screenshots/saved.png" width="200" alt="Saved Screen" /></td>
+      <td><img src="docs/screenshots/splash.jpg" width="200" alt="Splash Screen" /></td>
+      <td><img src="docs/screenshots/home.jpg" width="200" alt="Home Feed" /></td>
+      <td><img src="docs/screenshots/search.jpg" width="200" alt="Search Screen" /></td>
+      <td><img src="docs/screenshots/saved.jpg" width="200" alt="Saved Screen" /></td>
     </tr>
   </table>
 </div>
